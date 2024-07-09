@@ -1,0 +1,249 @@
+.email-route02-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.email-route02-email-route02 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.email-route02-heading {
+  width: 600px;
+  height: 619px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(187, 140, 78, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(0, 19, 35, 1);
+}
+.email-route02-takeatouroftheneighbourhood {
+  top: 157.89825439453125px;
+  left: 105.1586685180664px;
+  width: 389px;
+  height: 103px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.email-route02-logo {
+  top: 0px;
+  left: 192px;
+  width: 215px;
+  height: 83px;
+  position: absolute;
+  box-shadow: 1.418337345123291px 1.418337345123291px 2.836674690246582px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+}
+.email-route02-frame37 {
+  top: 334px;
+  left: 97px;
+  width: 409px;
+  height: 236px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.email-route02-the-old-schoolhouse-glasgowdesign {
+  top: 0px;
+  left: 0px;
+  width: 409px;
+  height: 236px;
+  position: absolute;
+}
+.email-route02-frame35 {
+  gap: 10px;
+  top: 88px;
+  left: 175px;
+  width: 59px;
+  height: 59px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 47px;
+  justify-content: center;
+}
+.email-route02-polygon1 {
+  width: 25px;
+  height: 25px;
+}
+.email-route02-vector {
+  top: 481px;
+  left: 109px;
+  width: 384px;
+  height: 199px;
+  position: absolute;
+}
+.email-route02-watchourlocationvideo {
+  top: 283.7530517578125px;
+  left: 143.13966369628906px;
+  width: 309px;
+  height: 10px;
+  position: absolute;
+}
+.email-route02-heading1 {
+  width: 600px;
+  height: 405px;
+}
+.email-route02-frame23 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.email-route02-frame33 {
+  width: 300px;
+  height: 308px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.email-route02-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  border-color: rgba(187, 140, 78, 1);
+}
+.email-route02-rectangle30 {
+  width: 304px;
+  height: 312px;
+  align-self: stretch;
+  border-color: rgba(187, 140, 78, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.email-route02-heading2 {
+  width: 600px;
+  height: 208px;
+}
+.email-route02-frame26 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.email-route02-rectangle21 {
+  width: 304px;
+  height: 314px;
+  align-self: stretch;
+  border-color: rgba(187, 140, 78, 1);
+}
+.email-route02-frame34 {
+  width: 300px;
+  height: 310px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.email-route02-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 317px;
+  position: absolute;
+  align-self: stretch;
+  border-color: rgba(187, 140, 78, 1);
+}
+.email-route02-heading3 {
+  width: 600px;
+  height: 278px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 140, 78, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(250, 244, 234, 1);
+}
+.email-route02-text {
+  top: 64px;
+  left: 169px;
+  color: rgba(1, 23, 19, 1);
+  width: 261px;
+  height: auto;
+  position: absolute;
+  font-size: 27.494731903076172px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Didot;
+  font-weight: 400;
+  line-height: 32.993675231933594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.email-route02-frame351 {
+  gap: 10px;
+  top: 119px;
+  left: 174px;
+  width: 251px;
+  display: flex;
+  padding: 15px 24px;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(187, 140, 78, 1);
+  border-style: solid;
+  border-width: 1px;
+  justify-content: center;
+}
+.email-route02-text2 {
+  color: rgba(0, 19, 35, 1);
+  height: auto;
+  font-size: 14.391776084899902px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Figtree;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.email-route02-vector1 {
+  top: 207px;
+  left: 109px;
+  width: 384px;
+  height: 199px;
+  position: absolute;
+}
+.email-route02-frame25 {
+  width: 600px;
+  height: 379px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.email-route02-frame32 {
+  top: 0px;
+  left: 0px;
+  width: 600px;
+  height: 379px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .email-route02-vector1 {
+    left: 109px;
+    bottom: 14px;
+  }
+}
